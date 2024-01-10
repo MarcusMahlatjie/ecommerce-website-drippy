@@ -1,6 +1,6 @@
 ## Ecommerce Website Drippy
 
-Visit the site here: 
+Visit the site here: https://marcusmahlatjie.github.io/ecommerce-website-drippy/
 
 Welcome to my Ecommerce website, this is not an official website that makes sales but is rather a React project I built to refine my
 skills and take on new challenges. It includes user interface frameworks such as MaterialUI and Bootstrap.
